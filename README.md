@@ -6,3 +6,12 @@
  
 ## Hardware
  Here you can find the Eagle schematics and STL files.
+
+```LaTex
+@Misc{Interreg-NOMADe,
+  author =   {J. Cappelle},
+  title =    {{Wireless Motion Sensor Node}},
+  howpublished  = {\url{https://github.com/DRAMCO/Interreg-NOMAD}},
+  doi = {10.5281/zenodo.4024373}
+}
+```
