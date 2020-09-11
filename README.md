@@ -1,7 +1,7 @@
 # NOMADe - Wireless Motion Sensor Node
  Documentation about the wireless motion sensor node.
 
-## Firmware
+## Software
  This map contains the c/c++ and python code for both the sensor node and receiver.
  
 ## Hardware
