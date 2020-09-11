@@ -7,6 +7,8 @@
 ## Hardware
  Here you can find the Eagle schematics and STL files.
 
+
+## How to cite
 ```LaTex
 @Misc{Interreg-NOMADe,
   author =   {J. Cappelle},
